@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @chatchanmongkola
-- 👀 I’m interested in frontend developer 
+- 👋 Hi, I’m frontend developer 
 
 <!---
 chatchanmongkola/chatchanmongkola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
